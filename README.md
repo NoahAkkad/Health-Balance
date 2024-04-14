@@ -35,4 +35,4 @@ The purpose of the Health Balance Application is to provide users with a compreh
 
 What distinguishes the Health Balance Application is its unique combination of features and benefits that are not available in other health and well-being apps. From tailored recommendations based on advanced algorithms and user data to fostering a culture of collaboration and mutual support within agile teams, the Health Balance Application stands out as a holistic solution for enhancing wellness.
 
-### Noah Akkad
+## Noah Akkad

@@ -1,0 +1,7 @@
+{
+  "/page": "app/page.js",
+  "/description/description-a/page": "app/description/description-a/page.js",
+  "/description/description-b/page": "app/description/description-b/page.js",
+  "/description/description-c/page": "app/description/description-c/page.js",
+  "/description/contact/page": "app/description/contact/page.js"
+}

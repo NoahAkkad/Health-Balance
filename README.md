@@ -18,7 +18,6 @@ The Health Balance Application is a comprehensive solution aimed at improving us
   - **Section 3 (Se 3):** Agile team collaboration
     - Emphasizes clear roles, open communication, and continuous improvement.
     - Believes in self-organization, collective ownership, and a culture of learning.
-- End screen summarizing the application's impact and future prospects.
 
 ## Contact Information
 
@@ -36,3 +35,4 @@ The purpose of the Health Balance Application is to provide users with a compreh
 
 What distinguishes the Health Balance Application is its unique combination of features and benefits that are not available in other health and well-being apps. From tailored recommendations based on advanced algorithms and user data to fostering a culture of collaboration and mutual support within agile teams, the Health Balance Application stands out as a holistic solution for enhancing wellness.
 
+### Noah Akkad

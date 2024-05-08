@@ -1766,6 +1766,9 @@ html {
 .flex-grow-0 {
   flex-grow: 0;
 }
+.flex-row {
+  flex-direction: row;
+}
 .flex-col {
   flex-direction: column;
 }
@@ -1951,6 +1954,13 @@ body {
     height: 100%;
     -o-object-fit: cover;
        object-fit: cover;
+  }
+}
+
+@media (min-width: 640px) {
+
+  .sm\:flex-row {
+    flex-direction: row;
   }
 }
 
